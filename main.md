@@ -5,7 +5,7 @@ The document can be viewed as a rendered markdown [here](https://github.com/warm
 ### Abstract
 Recently, a considerable advancemet in the area of Image Segmentation was achieved after state-of-the-art methods based on Fully Convolutional Networks (FCNs) were developed. The objective of Image Segmentation problem is to label every pixel in the image with the class of its enclosing object or region. This problem is extremely challenging because the method should have strong classification and localization properties at the same time. While being very complicated, image segmentation is an important problem as it has many applications in medicine, autonomous driving and other fields. In our talk, we go through theory of the recent state-of-the-art methods for image segmentation based on FCNs and present our library which aims to provide a simplified way for users to apply these methods for their own problems.
 
-### Long Description
+### Detailed description
 
 #### Background
 Methods based on Convolutional Neural Networks (CNNs) have pushed the performance on a broad array of problems, including image classification [(1)][cnn_krizh]  and object detection [(2)][detect_girsh].  ImageNet Large Scale Visual Recognition Competition (ILSVRC) is a main image classification competition. The training data of ILSVRC contains 1000 categories and approximately 1.2 million images and all successful approaches that perform well on this dataset are based on CNNs. Moreover, CNNs that were trained on this dataset act as a good initialization for other tasks as object detection, image segmentation and others [(2)][detect_girsh] [(3)][long_fcn]. 
