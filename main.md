@@ -1,5 +1,6 @@
 # Fully Convolutional Networks for Image Segmentation
 
+The document can be viewed as a rendered markdown [here](https://github.com/warmspringwinds/scipy_talk_austin/blob/master/main.md).
 
 ### Abstract
 Recently, a considerable advancemet in the area of Image Segmentation was achieved after state-of-the-art methods based on Fully Convolutional Networks (FCNs) were developed. The objective of Image Segmentation problem is to label every pixel in the image with the class of its enclosing object or region. This problem is extremely challenging because the method should have strong classification and localization properties at the same time. While being very complicated, image segmentation is an important problem as it has many applications in medicine, autonomous driving and other fields. In our talk, we go through theory of the recent state-of-the-art methods for image segmentation based on FCNs and present our library which aims to provide a simplified way for users to apply these methods for their own problems.
