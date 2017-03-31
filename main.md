@@ -29,6 +29,12 @@ We plan to structure our talk in the following way:
 
 In our talk, we introduced audience to the recent advancement in the field of image segmentation research, breifly covered the theory behind it and showed how some of the recent state-of-the-art image segmentation methods can be applied to a particular task using our library.
 
+### Biography and additional information
+
+Daniil Pakhomov is a PhD student at Johns Hopkins University. His main research area is general image segmentation and segmentation of medical images.
+
+Contents of our blog posts were well-accepted by machine learning community. Some of them got a promotional tweet from the official Kaggle account and others [(10)][twitter]. The author previously gave a talk on EuroScipy 2016 conference [(11)][euro_scipy].
+
    [tf_img_segm]: <https://github.com/warmspringwinds/tf-image-segmentation>
    [long_fcn]: 
 <https://people.eecs.berkeley.edu/~jonlong/long_shelhamer_fcn.pdf>
@@ -48,3 +54,5 @@ https://github.com/scikit-image/scikit-image/pull/1570
    [fcn_training]: <http://warmspringwinds.github.io/tensorflow/tf-slim/2017/01/23/fully-convolutional-networks-(fcns)-for-image-segmentation/>
    [our_paper]: <https://arxiv.org/abs/1703.08580>
    [our_library]: <https://github.com/warmspringwinds/tf-image-segmentation>
+   [twitter]: <https://twitter.com/warmspringwinds>
+   [euro_scipy]: <https://www.euroscipy.org/2016/schedule/sessions/13/>
