@@ -33,7 +33,7 @@ In our talk, we introduced audience to the recent advancement in the field of im
 
 Daniil Pakhomov is a PhD student at Johns Hopkins University. His main research area is general image segmentation and segmentation of medical images.
 
-Contents of our blog posts were well-accepted by machine learning community. Some of them got a promotional tweet from the official Kaggle account and others [(10)][twitter]. The author previously gave a talk on EuroScipy 2016 conference [(11)][euro_scipy].
+Contents of our blog posts were well-accepted by machine learning community. Some of them got a promotional tweets from the official Kaggle account and others [(10)][twitter]. The author previously gave a talk on EuroScipy 2016 conference [(11)][euro_scipy].
 
    [tf_img_segm]: <https://github.com/warmspringwinds/tf-image-segmentation>
    [long_fcn]: 
